@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 
+I'm Yavuz from Turkey and I'm a computer engineering student. 
+[Web Site](https://yavuzozay.github.io/) 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yavuzozay&hide=javascript,css,scss,html&theme=dark)
+
+ 
 
 <!--
 **yavuzozay/yavuzozay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
