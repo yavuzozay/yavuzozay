@@ -1,7 +1,7 @@
 ### Hi there 👋 
-I'm Yavuz from Turkey and I'm a computer engineering student. 
-[Web Site](https://yavuzozay.github.io/) 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yavuzozay&hide=javascript,css,scss,html&theme=dark)
+####  I'm Yavuz from Turkey and I'm a computer engineering student.   
+#### You can visit my [website](https://yavuzozay.github.io/).       
+ ## ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yavuzozay&hide=javascript,css,scss,html&theme=dark)
 
  
 
