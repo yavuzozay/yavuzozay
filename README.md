@@ -14,10 +14,10 @@
 ### Connect with me
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/linkedin.svg" />][linkedin]
 
-<br/>
+<br>
 
  ## ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yavuzozay&theme=dark)   
- <br/>
+ <br>
 
 
 [linkedin]: linkedin.com/in/yavuz-selim-özay-38b796193
