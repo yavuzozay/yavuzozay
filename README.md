@@ -6,10 +6,10 @@
 
 
 ### Tech I use
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" width="30" height="30"/> 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" width="30" height="30"/>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" width="30" height="30"/>
-<img src="https://icon-library.com/images/blender-3d-icon/blender-3d-icon-9.jpg" width="30" height="30"/> <br> <br> <br>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" width="30" height="30"  align-left/> 
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" width="30" height="30"  align-left/>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" width="30" height="30"  align-left/>
+<img src="https://icon-library.com/images/blender-3d-icon/blender-3d-icon-9.jpg" width="30" height="30" align-left/> <br> <br> <br>
 
 ### Connect with me
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/linkedin.svg" />][linkedin]
@@ -20,7 +20,7 @@
  <br>
 
 
-[linkedin]: linkedin.com/in/yavuz-selim-özay-38b796193
+[linkedin]: https://linkedin.com/in/yavuz-selim-özay-38b796193
 
  
 
