@@ -16,7 +16,8 @@
 
 <br>
 
- ## ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yavuzozay&theme=dark)   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=ShaderLab,HLSL)](https://github.com/anuraghazra/github-readme-stats)
+
  <br>
 
 
