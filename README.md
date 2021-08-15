@@ -1,3 +1,4 @@
+![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor%20count&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fyavuzozay.yavuzozay%2Freadme)
 ### Hi there 👋 
  I'm Yavuz from Turkey and I'm a computer engineering student.  
  
@@ -16,9 +17,11 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yavuzozay&hide=ShaderLab,HLSL)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yavuzozay&hide=ShaderLab,HLSL&theme=blueberry  )
 
  <br>
+
+
 
 
 [linkedin]: https://linkedin.com/in/yavuz-selim-özay-38b796193
