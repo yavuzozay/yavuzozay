@@ -17,7 +17,7 @@
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yavuzozay&hide=ShaderLab,HLSL&theme=blueberry  )
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yavuzozay&hide=ShaderLab&theme=blueberry  )
 
  <br>
 
