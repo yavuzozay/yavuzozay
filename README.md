@@ -3,7 +3,7 @@
  I'm Yavuz from Turkey and I'm a computer engineering student.  
  
  🌱 I’m currently learning Unity  
- <br>You can visit my [website](https://yavuzozay.itch.io/).
+ <br>You can visit my [website](https://www.yavuzselimozay.me/).
 
 
 ### Tech I use
