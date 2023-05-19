@@ -1,6 +1,6 @@
 ![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor%20count&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fyavuzozay.yavuzozay%2Freadme)
 ### Hi there 👋 
- I'm Yavuz from Turkey and I'm a computer engineering student.  
+ I'm Yavuz from Turkey and I'm a computer engineer. 
  
 - 🔭 I’m currently working on Unity 
 
